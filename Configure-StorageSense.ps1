@@ -81,7 +81,7 @@ Website:            https://virtualwarlock.net
     0 = Off
     1 = On
       
-.VARIABLE DeleteRecycleBinInterval
+.VARIABLE DeleteOneDriveInterval
     Configures the interval of the removal of the OneDrive folder content to either 1 day, every 14 days,
     every month or every 60 days
 
