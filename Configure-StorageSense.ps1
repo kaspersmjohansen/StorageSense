@@ -65,16 +65,6 @@ Website:            https://virtualwarlock.net
     0 = Off
     1 = On
       
-.VARIABLE DeleteRecycleBinInterval
-    Configures the interval of the removal of the Downloads folder content to either 1 day, every 14 days,
-    every month or every 60 days
-
-    0 = Never
-    1 = 1 day
-    14 = 14 days
-    30 = 30 days
-    60 = 60 days
-
 .VARIABLE DeleteOneDriveContent
     Enables or disables the removal of OneDrive folder content.
 
